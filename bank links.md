@@ -1,0 +1,54 @@
+[1:49 pm, 01/03/2026] RR TRUST CAPITAL SOLUTIONS: RR Trust Capital Solutions – Instant PERSONA Loan Application Links
+
+Approved Lending Partners
+💰 InCred Finance
+https://www.incred.com/personal-loan/?partnerId=8313827854371024P&utm_source=DSA&utm_medium=rrtrustcapitalsolution_dsa&utm_campaign=Buddyloan
+ 
+💰 Money View
+https://moneyview.in/personal-loan?utm_source=bl&utm_medium=rrtrustcapitalsolution_dsa&utm_campaign=dsa
+ 
+💰 Kissht Finance
+https://kissht.onelink.me/I5a1?af_xp=custom&pid=Buddyloan01&c=Buddyloan01&is_retargeting=true&af_reengagement_window=3d&af_sub1=rrtrustcapitalsolution_dsa&af_click_lookback=30d
+ 
+💰 Hero FinCorp
+https://hipl.onelink.me/S7fO?af_xp=custom&pid=partnership_BDL&is_retargeting=true&af_reengagement_window=30d&c=Buddyloan_rdf_26&utm_source=partnership_BDL&utm_campaign=Buddyloan_…
+[1:49 pm, 01/03/2026] RR TRUST CAPITAL SOLUTIONS: bUSINESS LOAN
+
+FlexiLoans Busienss Loan
+ https://loans.flexiloans.com/?nlp=1&partnerCode=64f1be98nfwae&utm_source=partner&utm_medium=buddyloan&utm_campaign=rrtrustcapitalsolution_dsa
+
+ Protium Business Loans
+https://dbl.protium.co.in/?utm_source=buddyloans&utm_medium=standard&utm_campaign=rrtrustcapitalsolution_dsa
+
+ Indifi Business Loans
+ https://www.indifi.com/msme-loans?utm_source=Affiliate&utm_medium=Aff_054Web&utm_campaign=rrtrustcapitalsolution_dsa
+
+ Poonawalla Business Loans
+ https://business-loans.poonawallafincorp.com/?redirectto=primebl&utm_DSA_Code=PKA00192&UTM_Partner_Name=BVALUE_SERVICES_PRIVATE_LIMITED&UTM_Partner_ReferenceID=rrtcs_dsa
+
+ Muthooth FIncorp EDI Business Loans
+ https://creditlink.finbox.in/?partnerCode=LS_NUSHZC&agentCode=sc113356&productType=business_loan_edi&agentId=rrtcs_dsa
+[1:49 pm, 01/03/2026] RR TRUST CAPITAL SOLUTIONS: CREDITE CARD & EMI CARD
+
+
+SBI_Credit_Card
+ https://www.sbicard.com/sprint/c/simplyClick?ch=dis&GEMID1=dis_smart_SimplyClick_conversion_April25_eapply_Banner_static_rrtcs_dsa&GEMID2=Buddyloan
+
+ HDFC_Credit_Card
+ https://applyonline.hdfcbank.com/cards/credit-cards.html?Channel=DSA&DSACode=XVEF&SMCode=N12369&LGCode=DGPI&LCCode=rrtcs_dsa&LC2=VEF001#nbb
+
+ IDFC_Credit_Card
+ https://api.credilio.in/public/cc/lead/org-utm-link/store/1760610522949408?utm-source=rrtcs_dsa
+
+ Kotak_Credit_Card
+ https://api.credilio.in/public/cc/lead/org-utm-link/store/1760610527488150?utm-source=rrtcs_dsa
+
+ YesBank_Credit_Card
+ https://api.credilio.in/public/cc/lead/org-utm-link/store/1760610531737909?utm-source=rrtcs_dsa
+
+ StableMoney_FD_Card
+ https://s1.whistleloop.com/?linkid=50214&offerid=847&publisher_id=3727&parentid=9&pub_name=Pratik&sub_id1=rrtcs_dsa
+
+
+ Bajaj Insta EMI
+ https://www.bajajfinserv.in/webform/emicard/login?utm_source=expartner&utm_medium=DSA&utm_campaign=rrtcs_dsa&clickid=%7Bclick_id%7D
