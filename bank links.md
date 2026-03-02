@@ -1,4 +1,4 @@
-[1:49 pm, 01/03/2026] RR TRUST CAPITAL SOLUTIONS: RR Trust Capital Solutions – Instant PERSONA Loan Application Links
+RR Trust Capital Solutions – Instant PERSONA Loan Application Links
 
 Approved Lending Partners
 💰 InCred Finance
@@ -11,8 +11,36 @@ https://moneyview.in/personal-loan?utm_source=bl&utm_medium=rrtrustcapitalsoluti
 https://kissht.onelink.me/I5a1?af_xp=custom&pid=Buddyloan01&c=Buddyloan01&is_retargeting=true&af_reengagement_window=3d&af_sub1=rrtrustcapitalsolution_dsa&af_click_lookback=30d
  
 💰 Hero FinCorp
-https://hipl.onelink.me/S7fO?af_xp=custom&pid=partnership_BDL&is_retargeting=true&af_reengagement_window=30d&c=Buddyloan_rdf_26&utm_source=partnership_BDL&utm_campaign=Buddyloan_…
-[1:49 pm, 01/03/2026] RR TRUST CAPITAL SOLUTIONS: bUSINESS LOAN
+https://hipl.onelink.me/S7fO?af_xp=custom&pid=partnership_BDL&is_retargeting=true&af_reengagement_window=30d&c=Buddyloan_rdf_26&utm_source=partnership_BDL&utm_campaign=Buddyloan_rdf_26&utm_content=rrtrustcapitalsolution_dsa
+ 
+💰 Poonawalla FinCorp (STPL)
+https://instant-pocket-loan.poonawallafincorp.com/?utm_DSA_Code=PKA00192&UTM_Partner_Name=BVALUE&UTM_Partner_Medium=DIGITAL_BL_rrtrustcapitalsolution_dsa&UTM_Partner_AgentCode=PFLBVALUE&UTM_Partner_ReferenceID=BVALUEPFL00000001_rrtrustcapitalsolution_dsa
+ 
+💰 Unity Small Finance Bank
+https://loans.theunitybank.com/unity-pl-ui/page/exclusion/login/logindetails?utm_source=buddyloan&utm_medium=rrtrustcapitalsolution_dsa&utm_campaign=DSA
+ 
+💰 IndusInd Bank (Digital)
+https://induseasycredit.indusind.com/customer/personal-loan/new-lead?utm_code=z_mktgcamp&utm_campaign=ind_PL&utm_source=buddyloan&utm_medium=rrtrustcapitalsolution_dsa&utm_content=DSA
+ 
+💰 SmartCoin
+https://app.olyv.co.in/?utm_source=buddyloan&utm_campaign=Buddyloan_link4&exit_id=rrtrustcapitalsolution_dsa
+ 
+💰 Fibe (EarlySalary)
+https://webportal.fibe.in/easy-loan?utm_source=BUDDYLOANPA&utm_medium=rrtrustcapitalsolution_dsa&campaignid=dsa
+ 
+💰 Prefer Loans
+https://marketplace.prefr.com/buddyloan?utm_source=buddyloan&utm_medium=rrtrustcapitalsolution_dsa&utm_content=content1&utm_campaign=DSA
+ 
+ 
+💰 PayRupik
+https://app.adjust.com/1sflo7sv?campaign=%7Brrtrustcapitalsolution_dsa%7D&adgroup=%7Bbuddy_loan01%7D&creative=%7BBDL_dsa%7D&idfa=%7Baf_9%7D&click_id=%7Bclick_id%7D&gps_adid=%7Baf_9%7D&android_id=%7Baf_6%7D&ip_address=%7Baf_5%7D&impression_id=%7Baf_7%7D&install_callback=https%3A%2F%2Futils.follow.whistle.mobi%2Fpixel.php%3Flinkid%3D%7Bclick_id%7D
+
+
+
+
+
+
+bUSINESS LOAN
 
 FlexiLoans Busienss Loan
  https://loans.flexiloans.com/?nlp=1&partnerCode=64f1be98nfwae&utm_source=partner&utm_medium=buddyloan&utm_campaign=rrtrustcapitalsolution_dsa
@@ -28,7 +56,10 @@ https://dbl.protium.co.in/?utm_source=buddyloans&utm_medium=standard&utm_campaig
 
  Muthooth FIncorp EDI Business Loans
  https://creditlink.finbox.in/?partnerCode=LS_NUSHZC&agentCode=sc113356&productType=business_loan_edi&agentId=rrtcs_dsa
-[1:49 pm, 01/03/2026] RR TRUST CAPITAL SOLUTIONS: CREDITE CARD & EMI CARD
+
+
+
+ CREDITE CARD & EMI CARD
 
 
 SBI_Credit_Card
