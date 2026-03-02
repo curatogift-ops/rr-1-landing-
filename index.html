@@ -58,11 +58,16 @@
         }
 
         .navbar h1 {
-            color: #ffffff;
-            font-size: 2.2rem;
-            font-weight: 700;
-            margin-bottom: 8px;
-            letter-spacing: 0.5px;
+            display: none;
+        }
+
+        .main-logo {
+            max-width: 320px;
+            height: auto;
+            margin-bottom: 15px;
+            display: inline-block;
+            filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));
+            transition: var(--transition);
         }
 
         .navbar p {
@@ -533,7 +538,7 @@
 
         @media(max-width: 600px) {
             .navbar { padding: 20px 0; }
-            .navbar h1 { font-size: 1.5rem; }
+            .main-logo { max-width: 240px; }
             .navbar p { font-size: 0.95rem; }
             
             .section-header { font-size: 1.3rem; margin-bottom: 15px; }
@@ -758,6 +763,7 @@
         <div id="google_translate_element" style="text-align: right; padding: 10px 20px 0;"></div>
         
         <div class="container" style="padding: 5px 20px 15px; max-width: 800px;">
+            <img src="logo.png" alt="RR Trust Capital Solutions Logo" class="main-logo">
             <h1>RR Trust Capital Solutions</h1>
             <h2 style="color: #fff; font-size: 1.3rem; margin-bottom: 15px; font-weight: 500;">Instant Loan Assistance (KYC Based Approval)</h2>
             <div style="background: rgba(0, 0, 0, 0.15); padding: 15px 20px; border-radius: 8px; border-left: 4px solid var(--accent-color); display: inline-block; text-align: left; max-width: 100%;">
