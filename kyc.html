@@ -469,13 +469,18 @@
             font-weight: 600;
         }
 
-        /* Floating WhatsApp */
-        .float-btn {
+        /* Floating Widgets */
+        .floating-widgets {
             position: fixed;
             bottom: 30px;
             right: 30px;
-            background: #25D366;
-            color: #fff;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            z-index: 1000;
+        }
+
+        .float-btn {
             width: 65px;
             height: 65px;
             border-radius: 50%;
@@ -483,16 +488,31 @@
             align-items: center;
             justify-content: center;
             font-size: 32px;
-            box-shadow: 0 6px 20px rgba(37, 211, 102, 0.4);
+            color: #fff;
             text-decoration: none;
-            z-index: 1000;
             transition: var(--transition);
         }
 
-        .float-btn:hover {
+        .float-btn.whatsapp {
+            background: #25D366;
+            box-shadow: 0 6px 20px rgba(37, 211, 102, 0.4);
+        }
+
+        .float-btn.whatsapp:hover {
             transform: scale(1.1) rotate(-5deg);
             background: #1EBE5D;
             box-shadow: 0 8px 25px rgba(37, 211, 102, 0.5);
+        }
+
+        .float-btn.call {
+            background: var(--primary-color);
+            box-shadow: 0 6px 20px rgba(12, 59, 94, 0.4);
+        }
+
+        .float-btn.call:hover {
+            transform: scale(1.1) rotate(5deg);
+            background: var(--primary-light);
+            box-shadow: 0 8px 25px rgba(12, 59, 94, 0.5);
         }
 
         /* Badges for required and instructions */
@@ -578,7 +598,8 @@
             .dsa-section p { font-size: 0.95rem !important; }
             .dsa-section .dsa-btn { padding: 14px 15px !important; font-size: 1rem !important; width: 100% !important; box-sizing: border-box !important; white-space: normal !important; text-align: center !important; }
             
-            .float-btn { width: 50px; height: 50px; font-size: 24px; bottom: 15px; right: 15px; }
+            .floating-widgets { bottom: 15px; right: 15px; gap: 10px; }
+            .float-btn { width: 50px; height: 50px; font-size: 24px; }
         }
         
         @media(max-width: 480px) {
@@ -1167,10 +1188,15 @@
 
     </div>
 
-    <!-- Floating Action Button -->
-    <a href="https://wa.me/918369805250?text=Hello%20I%20want%20more%20info%20about%20" class="float-btn" aria-label="WhatsApp Chat">
-        <i class="fa-brands fa-whatsapp"></i>
-    </a>
+    <!-- Floating Widgets -->
+    <div class="floating-widgets">
+        <a href="tel:+918369805250" class="float-btn call" aria-label="Call Us">
+            <i class="fa-solid fa-phone"></i>
+        </a>
+        <a href="https://wa.me/918369805250?text=Hello%20I%20want%20more%20info%20about%20" class="float-btn whatsapp" aria-label="WhatsApp Chat">
+            <i class="fa-brands fa-whatsapp"></i>
+        </a>
+    </div>
 
     <!-- Application Modal -->
     <div class="modal-overlay" id="applyModal">
